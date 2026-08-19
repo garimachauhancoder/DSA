@@ -1,4 +1,3 @@
-# DSA
 # 📚 Data Structures & Algorithms
 
 This repository contains my **Data Structures and Algorithms (DSA)** practice and implementations using Java.
