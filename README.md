@@ -4,6 +4,7 @@ This repository contains my **Data Structures and Algorithms (DSA)** practice an
 
 ## 🚀 Topics Covered
 
+* Patterns
 * Arrays
 * Strings
 * Searching Algorithms
@@ -23,6 +24,7 @@ The purpose of this repository is to practice DSA concepts, improve problem-solv
 ```text
 DSA/
 │
+├── Patterns/
 ├── Arrays/
 ├── Strings/
 ├── Searching/
