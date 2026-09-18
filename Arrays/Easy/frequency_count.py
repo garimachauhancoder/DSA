@@ -10,4 +10,4 @@ for i in range(n):
         if a[i]==a[j]:
             count +=1
     if count==1:
-        print(f"Count of {a[i]}: {count} times")
+        print(f"No. appearing only once", a[i]);
